@@ -3,22 +3,33 @@
 
 
 
-class Solution :
-    def proudctExceptself (self,num):
-        
+class Solution:
+    def productExceptSelf(self, nums):
         n = len(nums)
-        res = [1] * n
+        res = [1] * n 
 
 
-        left 1 
-        for i in range (n):
+        
+
+        left = 1
+        for i in range(n):
             res[i] = left
-            left *= num[i]
+            left *= nums[i]
+
+        right = 1
+        for i in range(n - 1, -1, -1):
+            res[i] *= right  
+            right *= nums[i]
+
+        return res
 
 
-        roght 1 
-        for i in range (n-1,-1,-1):
-            res[i] = right
-            right *= num [i]
+input = 1,2,3,4
+output = [24,12,8,6]
 
-        return res    
+
+all done due to the res except
+
+1 rec 1 
+2 res 1*2
+3 res 1*2*3
