@@ -20,3 +20,7 @@ class Solution:
             water += min(left[i], right[i]) - height[i]
 
         return water
+
+
+height = [0,1,0,2,1,0,1,3,2,1,2,1]
+Total trapped water = 6 units

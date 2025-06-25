@@ -14,8 +14,11 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 4  | Remove Duplicates II from Sorted Array (80)   | Medium | Arrays, Two Pointers | [Code](day2/Remove Duplicates 2 .py)                 |
 | 5  | Product of Array Except Self (238)            | Medium | Prefix, Arrays       | [Code](day3/product_except_self.py)                  |
 | 6  | Gas Station (134)                             | Medium | Greedy               | [Code](day3/gas_station.py)                          |
-| 7  | Candy (135)                                    | Hard   | Greedy               | [Code](day4/candy.py)                                |
+| 7  | Candy (135)                                   | Hard   | Greedy               | [Code](day4/candy.py)                                |
 | 8  | Trapping Rain Water (42)                      | Hard   | Two Pointers, Stack  | [Code](day4/trapping_rain_water.py)                  |
+| 9  | Roman to Integer (13)                         | Easy   | HashMap, Greedy      | [Code](day5/roman_to_integer.py)                     |
+| 10 | Integer to Roman (12)                         | Medium | Greedy, Arrays       | [Code](day5/integer_to_roman.py)                     |
+
 
 ➡️ More problems coming daily...
 
