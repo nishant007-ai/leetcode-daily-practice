@@ -1,27 +1,19 @@
 class Solution:
-    def intToRoman(self, num):
-        val = [
-            1000, 900, 500, 400,
-            100, 90, 50, 40,
-            10, 9, 5, 4, 1
-        ]
-        syms = [
-            "M", "CM", "D", "CD",
-            "C", "XC", "L", "XL",
-            "X", "IX", "V", "IV", "I"
-        ]
-        
-        roman = ""
-        i = 0
-        
-        while num > 0:
-            count = num // val[i]
-            roman += syms[i] * count
-            num -= val[i] * count
-            i += 1
-        
-        return roman
+    def romanToInt(self, s):
+        roman = {
+            'I': 1, 'V': 5, 'X': 10, 'L': 50,
+            'C': 100, 'D': 500, 'M': 1000
+        }
 
-# Create an object and test number 393
-sol = Solution()
-print("Roman Numeral for 393 is:", sol.intToRoman(393))
+        total = 0
+        prev = 0
+
+        for char in reversed(s):
+            value = roman[char]
+            if value < prev:
+                total -= value
+            else:
+                total += value
+            prev = value
+
+        return total
