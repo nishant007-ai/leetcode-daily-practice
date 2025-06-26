@@ -18,6 +18,8 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 8  | Trapping Rain Water (42)                      | Hard   | Two Pointers, Stack  | [Code](day4/trapping_rain_water.py)                  |
 | 9  | Roman to Integer (13)                         | Easy   | HashMap, Greedy      | [Code](day5/roman_to_integer.py)                     |
 | 10 | Integer to Roman (12)                         | Medium | Greedy, Arrays       | [Code](day5/integer_to_roman.py)                     |
+| 11  | Length of Last Word (58)                      | Easy   | Strings              | [Code](day5/length_of_last_word.py)                  |
+| 12 | Longest Common Prefix (14)                    | Easy   | Strings              | [Code](day5/longest_common_prefix.py)                |
 
 
 ➡️ More problems coming daily...

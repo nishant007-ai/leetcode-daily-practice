@@ -1,0 +1,17 @@
+class Nishant():
+    def lenOflastWord (self,s):
+        if len(s) == 0:
+            return 0
+        
+        s= s.rstrip()
+        word = s.splid()
+
+        if len(word)==0:
+            return 0
+
+
+    
+        return len(word[-1])
+
+
+
