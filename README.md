@@ -22,6 +22,8 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 12 | Longest Common Prefix (14)                    | Easy   | Strings              | [Code](day5/longest_common_prefix.py)                |
 | 13 | Reverse Words in a String (151)              | Medium | Strings              | [Code](day6/reverse_words.py)                        |
 | 14 | Zigzag Conversion (6)                         | Medium | Strings, Simulation  | [Code](day6/zigzag_conversion.py)                    |
+| 13 | Find Index of First Occurrence (28)          | Easy   | Strings              | [Code](day8/find_index_first_occurrence.py)         |
+| 14 | Text Justification (68)                      | Hard   | Strings, Formatting  | [Code](day8/text_justification.py)                   |
 
 
 ➡️ More problems coming daily...
