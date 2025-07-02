@@ -24,6 +24,8 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 14 | Zigzag Conversion (6)                         | Medium | Strings, Simulation  | [Code](day6/zigzag_conversion.py)                    |
 | 13 | Find Index of First Occurrence (28)          | Easy   | Strings              | [Code](day8/find_index_first_occurrence.py)         |
 | 14 | Text Justification (68)                      | Hard   | Strings, Formatting  | [Code](day8/text_justification.py)                   |
+| 13 | Jump Game I (55)                              | Medium | Greedy, DP           | [Code](day9/jump_game_1.py)                          |
+| 14 | Jump Game II (45)                             | Medium | Greedy               | [Code](day9/jump_game_2.py)                          |
 
 
 ➡️ More problems coming daily...
