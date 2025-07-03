@@ -26,6 +26,8 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 14 | Text Justification (68)                      | Hard   | Strings, Formatting  | [Code](day8/text_justification.py)                   |
 | 13 | Jump Game I (55)                              | Medium | Greedy, DP           | [Code](day9/jump_game_1.py)                          |
 | 14 | Jump Game II (45)                             | Medium | Greedy               | [Code](day9/jump_game_2.py)                          |
+| 15 | H-Index (274)                                | Medium | Sorting              | [Code](day10/H_index.py)                             |
+| 16 | Insert Delete GetRandom O(1) (380)           | Medium | HashMap, Design      | [Code](day10/Insert_Delete_GetRandom_O1.py)          |
 
 
 ➡️ More problems coming daily...
