@@ -30,6 +30,8 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 16 | Insert Delete GetRandom O(1) (380)           | Medium | HashMap, Design      | [Code](day10/Insert_Delete_GetRandom_O1.py)          |
 | 17 | Valid Palindrome (125)                       | Easy   | Two Pointers, String | [Code](day11/valid_palindrome.py)                    |
 | 18 | Is Subsequence (392)                         | Easy   | Two Pointers, String | [Code](day11/is_subsequence.py)                      |
+| 19 | Two Sum II - Input Array Is Sorted (167)      | Easy   | Two Pointers         | [Code](day12/two_sum_ii_sorted.py)                 |
+| 20 | Container With Most Water (11)                | Medium | Two Pointers         | [Code](day12/container_with_most_water.py)         |
 
 
 
