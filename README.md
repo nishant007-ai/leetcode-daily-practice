@@ -32,6 +32,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 18 | Is Subsequence (392)                         | Easy   | Two Pointers, String | [Code](day11/is_subsequence.py)                      |
 | 19 | Two Sum II - Input Array Is Sorted (167)      | Easy   | Two Pointers         | [Code](day12/two_sum_ii_sorted.py)                 |
 | 20 | Container With Most Water (11)                | Medium | Two Pointers         | [Code](day12/container_with_most_water.py)         |
+| 21 | 3Sum (15)                                     | Medium | Two Pointers, Sorting| [Code](day13/three_sum.py)                          |
 
 
 
