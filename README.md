@@ -33,6 +33,8 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 19 | Two Sum II - Input Array Is Sorted (167)      | Easy   | Two Pointers         | [Code](day12/two_sum_ii_sorted.py)                 |
 | 20 | Container With Most Water (11)                | Medium | Two Pointers         | [Code](day12/container_with_most_water.py)         |
 | 21 | 3Sum (15)                                     | Medium | Two Pointers, Sorting| [Code](day13/three_sum.py)                          |
+| 22 | Best Time to Buy and Sell Stock (121)        | Easy   | Greedy               | [Code](day14/best_time_to_buy_sell_stock.py)        |
+| 23 | Best Time to Buy and Sell Stock II (122)     | Medium | Greedy               | [Code](day14/best_time_to_buy_sell_stock_2.py)      |
 
 
 
