@@ -35,6 +35,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 21 | 3Sum (15)                                     | Medium | Two Pointers, Sorting| [Code](day13/three_sum.py)                          |
 | 22 | Best Time to Buy and Sell Stock (121)        | Easy   | Greedy               | [Code](day14/best_time_to_buy_sell_stock.py)        |
 | 23 | Best Time to Buy and Sell Stock II (122)     | Medium | Greedy               | [Code](day14/best_time_to_buy_sell_stock_2.py)      |
+| 24 | Majority Element (169)                        | Easy   | HashMap, Voting Algo | [Code](day15/majority_element.py)                   |
 
 
 
