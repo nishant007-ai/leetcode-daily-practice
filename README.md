@@ -37,6 +37,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 23 | Best Time to Buy and Sell Stock II (122)     | Medium | Greedy               | [Code](day14/best_time_to_buy_sell_stock_2.py)      |
 | 24 | Majority Element (169)                        | Easy   | HashMap, Voting Algo | [Code](day15/majority_element.py)                   |
 | 25 | Minimum Size Subarray Sum (209)              | Medium | Two Pointers         | [Code](day16/minimum_size_subarray_sum.py)          |
+| 26 | Longest Substring Without Repeating Characters (3) | Medium | HashMap, Sliding Window | [Code](day17/longest_substring_without_repeating.py) |
 
 
 
