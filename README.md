@@ -38,6 +38,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 24 | Majority Element (169)                        | Easy   | HashMap, Voting Algo | [Code](day15/majority_element.py)                   |
 | 25 | Minimum Size Subarray Sum (209)              | Medium | Two Pointers         | [Code](day16/minimum_size_subarray_sum.py)          |
 | 26 | Longest Substring Without Repeating Characters (3) | Medium | HashMap, Sliding Window | [Code](day17/longest_substring_without_repeating.py) |
+| 27 | Substring with Concatenation of All Words (30) | Hard   | HashMap, Sliding Window | [Code](day18/substring_with_concatenation.py) |
 
 
 
