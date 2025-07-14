@@ -12,3 +12,7 @@ class Solution:
             m = max(m, i - left + 1)
 
         return m
+
+#sol = Solution()
+#print(sol.lengthOfLongestSubstring("abcabcbb"))  # Output: 3
+
