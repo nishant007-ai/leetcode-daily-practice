@@ -39,6 +39,8 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 25 | Minimum Size Subarray Sum (209)              | Medium | Two Pointers         | [Code](day16/minimum_size_subarray_sum.py)          |
 | 26 | Longest Substring Without Repeating Characters (3) | Medium | HashMap, Sliding Window | [Code](day17/longest_substring_without_repeating.py) |
 | 27 | Substring with Concatenation of All Words (30) | Hard   | HashMap, Sliding Window | [Code](day18/substring_with_concatenation.py) |
+| 28 | Minimum Window Substring (76)                 | Hard   | Sliding Window, HashMap | [Code](day19/minimum_window_substring.py) |
+| 29 | Rotate Array (189)                           | Medium | Arrays, Rotation      | [Code](day20/rotate_array.py)                         |
 
 
 
