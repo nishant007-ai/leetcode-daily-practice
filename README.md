@@ -43,6 +43,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 29 | Rotate Array (189)                           | Medium | Arrays, Rotation      | [Code](day20/rotate_array.py)                         |
 | 30 | Valid Sudoku (36)                             | Medium | Hashing, Matrix      | [Code](day22/Valid Sudoku.py)                        |
 | 31 | Spiral Matrix (54)                          | Medium | Arrays, Simulation   | [Code](day31/Spiral Matrix.py)                      |
+| 32 | Spiral Matrix (54)                          | Medium | Matrix, Simulation   | [Code](day25/Spiral Matrix.py)                      |
 
 
 
