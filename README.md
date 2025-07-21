@@ -41,9 +41,10 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 27 | Substring with Concatenation of All Words (30) | Hard   | HashMap, Sliding Window | [Code](day18/substring_with_concatenation.py) |
 | 28 | Minimum Window Substring (76)                 | Hard   | Sliding Window, HashMap | [Code](day19/minimum_window_substring.py) |
 | 29 | Rotate Array (189)                           | Medium | Arrays, Rotation      | [Code](day20/rotate_array.py)                         |
-| 30 | Valid Sudoku (36)                             | Medium | Hashing, Matrix      | [Code](day22/Valid Sudoku.py)                        |
-| 31 | Spiral Matrix (54)                          | Medium | Arrays, Simulation   | [Code](day31/Spiral Matrix.py)                      |
-| 32 | Spiral Matrix (54)                          | Medium | Matrix, Simulation   | [Code](day25/Spiral Matrix.py)                      |
+| 30| Minimum Window Substring (76)                 | Hard   | Sliding Window, HashMap | [Code](day19/minimum_window_substring.py)          |
+| 31 | Rotate Array (189)                            | Medium | Arrays, Rotation        | [Code](day20/rotate_array.py)                       |
+| 32 | Valid Sudoku (36)                              | Medium | Hashing, Matrix         | [Code](day22/Valid Sudoku.py)                       |
+| 33 | Spiral Matrix (54)                             | Medium | Matrix, Simulation      | [Code](day25/Spiral Matrix.py)                      |
 
 
 
