@@ -44,6 +44,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 34 | Valid Sudoku (36)                                      | Medium | Hashing, Matrix           | [Code](day22/valid_sudoku.py)                            |
 | 35 | Spiral Matrix (54)                                     | Medium | Matrix, Simulation        | [Code](day25/spiral_matrix.py)                           |
 | 36 | Rotate Matrix (Custom)                                 | Medium | Matrix, In-place          | [Code](day26/rotate_matrix.py)                           |
+| 37 | Set Matrix Zeroes (73)                                 | Medium | Matrix                    | [Code](day27/Set Matrix Zeroes.py) |
 
 ➡️ More problems coming daily...
 
