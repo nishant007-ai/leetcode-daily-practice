@@ -21,3 +21,16 @@ class Solution:
                     board[r][c] = 1
                 else:
                     board[r][c] = 0
+
+
+#Initial state:
+#0 1 0
+#0 0 1
+#1 1 1
+#0 0 0
+
+#Generation 1:
+#0 0 0
+#1 0 1
+#0 1 1
+#0 1 0
