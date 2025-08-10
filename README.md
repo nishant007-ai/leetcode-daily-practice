@@ -46,6 +46,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 36 | Rotate Matrix (Custom)                                 | Medium | Matrix, In-place          | [Code](day26/rotate_matrix.py)                           |
 | 37 | Set Matrix Zeroes (73)                                 | Medium | Matrix                    | [Code](day27/Set Matrix Zeroes.py) |
 | 38 | Game of Life (289)                                     | Medium | Matrix, Simulation, In-place | [Code](day28/Game of Life.py)                          |
+| 39 | Ransom Note (383) | Easy | Hashing, String | [Code](day29/ransom_note.py) |
 
 
 ➡️ More problems coming daily...
