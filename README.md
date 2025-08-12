@@ -47,6 +47,8 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 37 | Set Matrix Zeroes (73)                                 | Medium | Matrix                    | [Code](day27/Set Matrix Zeroes.py) |
 | 38 | Game of Life (289)                                     | Medium | Matrix, Simulation, In-place | [Code](day28/Game of Life.py)                          |
 | 39 | Ransom Note (383) | Easy | Hashing, String | [Code](day29/ransom_note.py) |
+| 39 | Ransom Note (383) | Easy | Hashing, String | [Code](day29/ransom_note.py) |
+| 40 | Isomorphic Strings (205) | Easy | HashMap, String | [Code](day30/isomorphic_strings.py) |
 
 
 ➡️ More problems coming daily...
