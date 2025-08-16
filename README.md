@@ -54,4 +54,25 @@ ing daily...
 
 ## 📦 Folder Structure
 
-Each `dayX/` folder contains solutions for that day's LeetCode problems with descriptive file names.
+
+---
+
+## 🌟 Day 30 Highlight → *Isomorphic Strings*  
+🔹 **Problem:** Check if two strings are isomorphic.  
+🔹 **Approach:** Use a hashmap to track character mappings.  
+🔹 **Real-Life Example:** Comparing two secret codes to see if they follow the same pattern.  
+
+---
+
+## 🎯 Goals  
+- Solve **1 problem every day**  
+- Add **real-world relatable examples**  
+- Maintain clean & structured code  
+
+---
+
+## 💡 How to Use  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/<your-username>/leetcode-daily-practice.git
+
