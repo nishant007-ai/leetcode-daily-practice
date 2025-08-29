@@ -15,12 +15,12 @@ class Solution(object):
                 return False
         return True
 
-if __name__ == "__main__":
-    s = "anagram"
-    t = "nagaram"
-    sol = Solution()
-    print(sol.isAnagram(s, t))  # Expected output: True
 
-    s = "rat"
-    t = "car"
-    print(sol.isAnagram(s, t))  # Expected output: False
+# ------------------------------
+# Run test cases when file is executed
+# ------------------------------
+if __name__ == "__main__":
+    sol = Solution()
+
+    print(sol.isAnagram("anagram", "nagaram"))  # Expected: True
+    print(sol.isAnagram("rat", "car"))          # Expected: False
