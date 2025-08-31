@@ -48,13 +48,14 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 39 | Ransom Note (383)                                      | Easy   | Hashing, String               | [Code](day29/Ransom Note.py)                            |
 | 40 | Isomorphic Strings (205)                               | Easy   | HashMap, String               | [Code](day30/Isomorphic Strings.py)                     |
 | 41 | Word Pattern (290)                                     | Easy   | HashMap, String               | [Code](day31/Word Pattern.py)                           |
-| 42 | Word Pattern (290)                                     | Easy   | HashMap, String               | [Code](day31/Word Pattern.py)                           |
-| 43 | Valid Anagram (242)                                    | Easy   | HashMap, String, Sorting      | [Code](day32/valid_anagram.py)                          |
-| 44 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/Group Anagrams.py)                          |
-
-ing daily...
+| 42 | Valid Anagram (242)                                    | Easy   | HashMap, String, Sorting      | [Code](day32/valid_anagram.py)                          |
+| 43 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/Group Anagrams.py)                         |
 
 ---
+
+## 📦 Folder Structure
+Each folder is organized as:  
+
 
 ## 📦 Folder Structure
 
