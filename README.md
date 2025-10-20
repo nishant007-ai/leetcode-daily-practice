@@ -51,7 +51,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 42 | Valid Anagram (242)                                    | Easy   | HashMap, String, Sorting      | [Code](day32/valid_anagram.py)                          |
 | 43 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/Group Anagrams.py)                         |
 | 44 | Happy Number (202)                                     | Easy   | Hashing, Math                 | [Code](day34/Happy Number.py)                          |
-| 46 | Summary Ranges (228)                                  | Easy   | Arrays, Two Pointers           | [Code](day36/Summary Ranges.py)                        |
+| 45 | Summary Ranges (228)                                  | Easy   | Arrays, Two Pointers           | [Code](day36/Summary Ranges.py)                        |
 
 ---
 
