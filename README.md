@@ -52,7 +52,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 43 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/Group Anagrams.py)                         |
 | 44 | Happy Number (202)                                     | Easy   | Hashing, Math                 | [Code](day34/Happy Number.py)                          |
 | 45 | Summary Ranges (228)                                  | Easy   | Arrays, Two Pointers           | [Code](day36/Summary Ranges.py)                        |
-
+| 46 | merge intervals | medium|sorting ,arrays,merging |[code](day37/merged intervals.py)
 ---
 
 ## 📦 Folder Structure
