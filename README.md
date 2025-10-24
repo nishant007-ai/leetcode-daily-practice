@@ -1,10 +1,12 @@
 # 📘 LeetCode Daily Practice
 
-This repo contains my **daily DSA practice** from LeetCode, with **real-life examples** and clean Python solutions.
+This repository contains my **daily DSA (Data Structures & Algorithms)** practice from **LeetCode**, with **real-world relatable examples** and **clean Python solutions**.  
+Each problem includes its **level**, **topic**, and a direct **code link** for easy reference.
 
 ---
 
 ## 🗂️ Problem Tracker
+
 | #  | Problem Title                                          | Level  | Topics                        | Code Link                                               |
 |----|--------------------------------------------------------|--------|-------------------------------|---------------------------------------------------------|
 | 1  | Remove Element (27)                                    | Easy   | Arrays, Two Pointers          | [Code](day1/remove_element.py)                          |
@@ -43,21 +45,37 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 34 | Valid Sudoku (36)                                      | Medium | Hashing, Matrix               | [Code](day22/valid_sudoku.py)                           |
 | 35 | Spiral Matrix (54)                                     | Medium | Matrix, Simulation            | [Code](day25/spiral_matrix.py)                          |
 | 36 | Rotate Matrix (Custom)                                 | Medium | Matrix, In-place              | [Code](day26/rotate_matrix.py)                          |
-| 37 | Set Matrix Zeroes (73)                                 | Medium | Matrix                        | [Code](day27/Set Matrix Zeroes.py)                      |
-| 38 | Game of Life (289)                                     | Medium | Matrix, Simulation, In-place  | [Code](day28/Game of Life.py)                           |
-| 39 | Ransom Note (383)                                      | Easy   | Hashing, String               | [Code](day29/Ransom Note.py)                            |
-| 40 | Isomorphic Strings (205)                               | Easy   | HashMap, String               | [Code](day30/Isomorphic Strings.py)                     |
-| 41 | Word Pattern (290)                                     | Easy   | HashMap, String               | [Code](day31/Word Pattern.py)                           |
+| 37 | Set Matrix Zeroes (73)                                 | Medium | Matrix                        | [Code](day27/set_matrix_zeroes.py)                      |
+| 38 | Game of Life (289)                                     | Medium | Matrix, Simulation, In-place  | [Code](day28/game_of_life.py)                           |
+| 39 | Ransom Note (383)                                      | Easy   | Hashing, String               | [Code](day29/ransom_note.py)                            |
+| 40 | Isomorphic Strings (205)                               | Easy   | HashMap, String               | [Code](day30/isomorphic_strings.py)                     |
+| 41 | Word Pattern (290)                                     | Easy   | HashMap, String               | [Code](day31/word_pattern.py)                           |
 | 42 | Valid Anagram (242)                                    | Easy   | HashMap, String, Sorting      | [Code](day32/valid_anagram.py)                          |
-| 43 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/Group Anagrams.py)                         |
-| 44 | Happy Number (202)                                     | Easy   | Hashing, Math                 | [Code](day34/Happy Number.py)                          |
-| 45 | Summary Ranges (228)                                  | Easy   | Arrays, Two Pointers           | [Code](day36/Summary Ranges.py)                        |
-| 46 | merge intervals | medium|sorting ,arrays,merging |[code](day37/merged intervals.py)
-|47|  insert intervals | hard | sorting ,merging ,arryas ,intervals | [code](day38/insert intervals.py)
-|48| Minimum Number of Arrows to Burst Balloons| hard | sorting ,intervals,arrows| [code](day39/findMinArrowShots.py)
-|49| Contains Duplicate |easy | intervals ,sort | [code](day40/Contains Duplicate II.py)
-|50|  Valid Parentheses |medium|   Parentheses,stack ,pairs|[code](day41Valid Parentheses.py) 
+| 43 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/group_anagrams.py)                         |
+| 44 | Happy Number (202)                                     | Easy   | Hashing, Math                 | [Code](day34/happy_number.py)                           |
+| 45 | Summary Ranges (228)                                   | Easy   | Arrays, Two Pointers          | [Code](day36/summary_ranges.py)                         |
+| 46 | Merge Intervals (56)                                   | Medium | Sorting, Arrays, Merging      | [Code](day37/merge_intervals.py)                        |
+| 47 | Insert Interval (57)                                   | Hard   | Sorting, Merging, Arrays      | [Code](day38/insert_intervals.py)                       |
+| 48 | Minimum Number of Arrows to Burst Balloons (452)       | Medium | Sorting, Intervals, Greedy    | [Code](day39/min_arrows_to_burst_balloons.py)           |
+| 49 | Contains Duplicate II (219)                            | Easy   | HashMap, Sliding Window       | [Code](day40/contains_duplicate_ii.py)                  |
+| 50 | Valid Parentheses (20)                                 | Easy   | Stack, Brackets, Strings      | [Code](day41/valid_parentheses.py)                      |
+
 ---
+
+## 🚧 Coming Soon
+
+✨ **More LeetCode problems** will be added soon...  
+Stay tuned for:
+- Advanced **Dynamic Programming**
+- **Graph algorithms**
+- **Backtracking challenges**
+- **System design & patterns**
+
+> ⚙️ _Final updated version coming soon — all problems will include detailed explanations and optimized code._
+
+---
+
+## 🧠 Folder Structure
 
 ## 📦 Folder Structure
 Each folder is organized as:  
