@@ -55,6 +55,7 @@ This repo contains my **daily DSA practice** from LeetCode, with **real-life exa
 | 46 | merge intervals | medium|sorting ,arrays,merging |[code](day37/merged intervals.py)
 |47|  insert intervals | hard | sorting ,merging ,arryas ,intervals | [code](day38/insert intervals.py)
 |48| Minimum Number of Arrows to Burst Balloons| hard | sorting ,intervals,arrows| [code](day39/findMinArrowShots.py)
+|49| Contains Duplicate |easy | intervals ,sort | [code](day40/Contains Duplicate II.py)
 ---
 
 ## 📦 Folder Structure
