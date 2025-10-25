@@ -63,7 +63,7 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 48 | Minimum Number of Arrows to Burst Balloons (452)       | Medium | Sorting, Intervals, Greedy    | [Code](day39/min_arrows_to_burst_balloons.py)           |
 | 49 | Contains Duplicate II (219)                            | Easy   | HashMap, Sliding Window       | [Code](day40/contains_duplicate_ii.py)                  |
 | 50 | Valid Parentheses (20)                                 | Easy   | Stack, Brackets, Strings      | [Code](day41/valid_parentheses.py)                      |
-
+| 51 | Simplify path |medium| split.append,pop|[code](day42/Simplify%20Path.py)
 ---
 
 ## 🚧 Coming Soon
