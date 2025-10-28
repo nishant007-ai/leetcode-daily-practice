@@ -1,4 +1,7 @@
-  def remove_duplicates(items):
+#class Solution : remove_duplicates.py
+class Solution :
+
+   def remove_duplicates(items):
     # Convert list to a set (removes duplicates)
     unique_items = list(set(items))
     return unique_items
