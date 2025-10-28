@@ -67,7 +67,7 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 52 | Min Stack (155)                                        | Medium | Stack, Design                 | [Code](day43/min_stack.py)                              |
 | 53 | Evaluate Reverse Polish Notation (150)                 | Medium | Stack, Math, Expression Eval  | [Code](day44/evaluate_reverse_polish_notation.py)       |
 | 54 | Basic Calculator (224)                                 | Hard   | Stack, Math, Parentheses      | [Code](day45/basic_calculator.py)                       |
-
+|55| Linked list cycle| easy|linkded lsit ,hash|[code](day46/Linked%20List%20Cycle.py)
 
 ## 🚧 Coming Soon
 
