@@ -43,3 +43,8 @@ def createLinkedList(values, pos):
 
 # 🔍 Test Cases
 
+
+#Input: head = [3,2,0,-4], pos = 1
+Output: true
+        else:
+            return False    
