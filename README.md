@@ -66,7 +66,7 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 51 | Simplify Path (71)                                     | Medium | Stack, String, Path Simplify  | [Code](day42/simplify_path.py)                          |
 | 52 | Min Stack (155)                                        | Medium | Stack, Design                 | [Code](day43/min_stack.py)                              |
 | 53 | Evaluate Reverse Polish Notation (150)                 | Medium | Stack, Math, Expression Eval  | [Code](day44/evaluate_reverse_polish_notation.py)       |
-
+|54|Basic Calculator | hard|stack ,math,pop|[code](day45/Basic%20Calculator.py)
 ---
 
 ## 🚧 Coming Soon
