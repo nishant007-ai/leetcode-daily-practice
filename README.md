@@ -72,8 +72,6 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 
 ---
 
-## 🚧 Coming Soon
-More **Linked List**, **Tree**, and **Graph** problems on the way! Stay tuned for daily updates 🚀
 
 ## 🚧 Coming Soon
 
