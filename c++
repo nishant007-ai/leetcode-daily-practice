@@ -23,3 +23,33 @@
 // Replace with your Firebase Project details
 #define FIREBASE_API_KEY "AIzaSyBvinpuJDqmTrNERZKraF-4gR736TrBQEA"
 #define FIREBASE_PROJECT_ID "pet-feeder-project-896ba"
+
+// IDs (must match your web app)
+const String APP_ID = "default-pet-feeder-app-id";
+const String OWNER_USER_ID = "ab7ceb20-f372-4d2c-acbc-c155c14c6722";
+
+// --- 2. HARDWARE CONFIGURATION ---
+
+#define SERVO_PIN 27
+Servo feederServo;
+unsigned long lastFeedMillis = 0;
+
+// RFID Pins
+#define RST_PIN 32
+#define SS_PIN 33
+MFRC522 mfrc522(SS_PIN, RST_PIN);
+const String AUTHORIZED_TAG_UID = "YOUR_PETS_AUTHORIZED_RFID_TAG_UID";
+
+// --- 3. TIME CONFIGURATION ---
+const char* ntpServer = "pool.ntp.org";
+const long gmtOffset_sec = 19800; // India GMT +5:30
+const int daylightOffset_sec = 0;
+
+// --- 4. FIREBASE OBJECTS ---
+FirebaseData fbdo;
+FirebaseAuth auth;
+FirebaseConfig config;
+
+// --- 5. HELPER FUNCTIONS ---
+
+String uidToString(byte *buffer, byte bufferSize) {
