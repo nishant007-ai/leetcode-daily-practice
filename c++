@@ -61,3 +61,22 @@ String uidToString(byte *buffer, byte bufferSize) {
   }
   result.toUpperCase();
   return result;
+}
+
+void dispenseFood(String portionSize) {
+  Serial.printf("[HW] Dispensing %s portion...\n", portionSize.c_str());
+
+  int rotationDegrees = 0;
+  if (portionSize == "small") rotationDegrees = 30;
+  else if (portionSize == "medium") rotationDegrees = 60;
+  else if (portionSize == "large") rotationDegrees = 90;
+
+  feederServo.write(rotationDegrees);
+  delay(1000);
+  feederServo.write(0);
+
+  Serial.println("[HW] Dispense complete.");
+}
+
+void logFeedToFirestore(String portionSize, String feedType) {
+  String logPath = "artifacts/" +
