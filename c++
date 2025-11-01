@@ -197,4 +197,18 @@ void loop() {
         schedulesJson.get(result, i, "fields/portion/stringValue");
         String portion = result.stringValue;
 
-      
+        if (scheduledTime == currentTime) {
+          Serial.printf("[TRIGGER] Feeding at %s. Portion: %s\n", scheduledTime.c_str(), portion.c_str());
+          dispenseFood(portion);
+          logFeedToFirestore(portion, "scheduled_rfid_match");
+          lastFeedMillis = currentMillis;
+          break;
+        }
+      }
+      schedulesJson.iteratorEnd();
+    } else {
+      Serial.printf("[WARNING] Could not fetch schedules: %s\n", fbdo.errorReason().c_str());
+    }
+  }
+
+ 
