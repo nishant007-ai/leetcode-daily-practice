@@ -177,3 +177,11 @@ void loop() {
     mfrc522.PCD_StopCrypto1();
     return;
   }
+
+  char currentTime[6];
+  strftime(currentTime, sizeof(currentTime), "%H:%M", &timeinfo);
+  unsigned long currentMillis = millis();
+
+  if (currentMillis - lastFeedMillis > 61000) {
+    String schedulesPath = "artifacts/" + APP_ID + "/users/" + OWNER_USER_ID + "/pet_feeder_schedules";
+    FirebaseJson schedulesJson;
