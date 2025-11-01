@@ -53,11 +53,3 @@ FirebaseConfig config;
 // --- 5. HELPER FUNCTIONS ---
 
 String uidToString(byte *buffer, byte bufferSize) {
-  String result = "";
-  for (byte i = 0; i < bufferSize; i++) {
-    if (buffer[i] < 0x10) result += "0";
-    result += String(buffer[i], HEX);
-    if (i < bufferSize - 1) result += " ";
-  }
-  result.toUpperCase();
-  return result;
