@@ -205,10 +205,4 @@ void loop() {
           break;
         }
       }
-      schedulesJson.iteratorEnd();
-    } else {
-      Serial.printf("[WARNING] Could not fetch schedules: %s\n", fbdo.errorReason().c_str());
-    }
-  }
-
- 
+   
