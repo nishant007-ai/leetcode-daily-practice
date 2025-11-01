@@ -185,16 +185,3 @@ void loop() {
   if (currentMillis - lastFeedMillis > 61000) {
     String schedulesPath = "artifacts/" + APP_ID + "/users/" + OWNER_USER_ID + "/pet_feeder_schedules";
     FirebaseJson schedulesJson;
-
-    if (Firebase.Firestore.getDocuments(&fbdo, FIREBASE_PROJECT_ID, "", schedulesPath.c_str(), "")) {
-      schedulesJson.setJsonData(fbdo.jsonString());
-      size_t count = schedulesJson.iteratorBegin();
-      FirebaseJsonData result;
-
-      for (size_t i = 0; i < count; i++) {
-        schedulesJson.get(result, i, "fields/time/stringValue");
-        String scheduledTime = result.stringValue;
-        schedulesJson.get(result, i, "fields/portion/stringValue");
-        String portion = result.stringValue;
-
-      
