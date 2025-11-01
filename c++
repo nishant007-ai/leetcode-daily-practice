@@ -79,14 +79,4 @@ void dispenseFood(String portionSize) {
 }
 
 void logFeedToFirestore(String portionSize, String feedType) {
-  String logPath = "artifacts/" + APP_ID + "/users/" + OWNER_USER_ID + "/pet_feeder_logs";
-
-  FirebaseJson content;
-  content.set("fields/timestamp/timestampValue", "0");
-  content.set("fields/type/stringValue", feedType.c_str());
-  content.set("fields/portion/stringValue", portionSize.c_str());
-
-  if (Firebase.Firestore.createDocument(&fbdo, FIREBASE_PROJECT_ID, "", logPath.c_str(), content.raw())) {
-    Serial.printf("[CLOUD] Logged %s feed to Firestore.\n", feedType.c_str());
-  } else {
-    Serial.printf("[ERROR] Fi
+  String logPath = "artifacts/" +
