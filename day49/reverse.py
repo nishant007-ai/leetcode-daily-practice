@@ -390,33 +390,3 @@
         const link = document.createElement('a');
         link.download = 'AgriSense_flowchart.png';
         link.href = canvas.toDataURL('image/png');
-        link.click();
-      }catch(err){
-        alert('Export failed: ' + err.message);
-      }finally{
-        root.style.background = orig;
-        exportBtn.disabled = false;
-        exportBtn.textContent = 'Export PNG';
-      }
-    });
-
-    // Suggest AI button — will call recommender based on currently selected node or default to analysis
-    suggestBtn.addEventListener('click', ()=>{
-      const title = detailsTitle.textContent;
-      let key = null;
-      for(const k in NODES){ if(NODES[k].title === title) key=k; }
-      if(!key) key = 'analysis';
-      updateAiRecommendation(key, skillSelect.value);
-      // highlight briefly
-      const el = document.querySelector(`[data-key="${key}"]`);
-      if(el){
-        el.style.boxShadow = '0 28px 60px rgba(20,100,200,0.16)';
-        setTimeout(()=> el.style.boxShadow='0 6px 18px rgba(12,18,36,0.08)', 2000);
-      }
-    });
-
-    // downloadCSV: create dummy csv and download (demo)
-    downloadCSV.addEventListener('click', ()=>{
-      
-</body>
-</html>
