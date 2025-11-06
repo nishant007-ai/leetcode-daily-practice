@@ -72,5 +72,4 @@
 
       <div class="controls">
         <div style="display:flex; gap:8px; align-items:center;">
-          <label class="small">Skill:</label>
-          <select id="skillSelect" class="chip">
+          <label class="sm
