@@ -215,36 +215,3 @@
             </div>
 
           </div>
-        </div>
-      </div>
-    </div>
-
-    <footer style="margin-top:14px; text-align:center; color:var(--muted); font-size:13px">
-      Tip: Click nodes to open detailed guidance. Use the skill slider to change the AI Recommendations (Beginner—Expert).
-    </footer>
-  </div>
-
-  <script>
-    // Data definitions for each node
-    const NODES = {
-      farm: {
-        title: 'Farm',
-        desc: 'On-field teams, tractors, crop plots. Sensors (soil moisture, temperature), drones for NDVI, and mobile apps for farmer inputs.',
-        tools: ['LoRa sensors (e.g., Dragino)', 'Mobile app (Android/iOS)', 'Drones (NDVI imagery)'],
-        metrics: ['Soil moisture (%)','NDVI index','Growth stage','Harvest estimate (kg)'],
-        version: { v1:'Manual sensors + mobile logging', v2:'Drone imagery + automated soil probes' }
-      },
-      capture: {
-        title: 'Data Capture',
-        desc: 'Edge gateways collect telemetry, pre-process and forward to cloud. Use secure comms (TLS) and batching to optimize bandwidth.',
-        tools: ['Edge Gateway (Raspberry Pi)', 'MQTT / LoRaWAN', 'Preprocessing pipeline (JSON->Parquet)'],
-        metrics: ['Message latency (ms)','Data completeness (%)','Packet loss (%)'],
-        version: { v1:'MQTT ingestion', v2:'MQTT + edge aggregation + OTA updates' }
-      },
-      analysis: {
-        title: 'AgriSense.AI',
-        desc: 'Cloud-hosted ML models — yield prediction, irrigation optimizer, anomaly detection and quality scoring for procurement decisions.',
-        tools: ['AWS/GCP/Azure', 'Model: RandomForest / LSTM', 'Dashboard: React + Plotly'],
-        metrics: ['Yield prediction error (%)','Water saving (%)','Time to decision (hours)'],
-        version: { v1:'Basic ML models + dashboard', v2:'AutoML + supply chain integration + API for procurement' }
-      },
