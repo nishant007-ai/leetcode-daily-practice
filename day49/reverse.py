@@ -417,18 +417,6 @@
 
     // downloadCSV: create dummy csv and download (demo)
     downloadCSV.addEventListener('click', ()=>{
-      const csv = 'farm_id,date,soil_moisture,ndvi,predicted_yield\\n1,2025-10-01,32,0.72,1200\\n2,2025-10-01,28,0.68,980\\n';
-      const blob = new Blob([csv], {type:'text/csv'});
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url; a.download = 'agrisense_sample.csv'; a.click();
-      URL.revokeObjectURL(url);
-    });
-
-    // initialize with analysis node selected
-    showDetails('analysis');
-    // subtle initial highlight
-    document.getElementById('node-analysis').style.boxShadow = '0 18px 40px rgba(12,18,36,0.12)';
-  </script>
+      
 </body>
 </html>
