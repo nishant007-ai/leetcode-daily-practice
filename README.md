@@ -30,7 +30,7 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 15 | Find Index of First Occurrence in String (28)          | Easy   | Strings                       | [Code](day8/find_index_first_occurrence.py)             |
 | 16 | Text Justification (68)                                | Hard   | Strings, Formatting           | [Code](day8/text_justification.py)                      |
 | 17 | Jump Game I (55)                                       | Medium | Greedy, DP                    | [Code](day9/jump_game_1.py)                             |
-| 18 | Jump Game II (45)                                      | Medium | Greedy                        | [Code](day9/jump_game_2.py)                   |
+| 18 | Jump Game II (45)                                      | Medium | Greedy                        | [Code](day9/jump_game_2.py)                   z|
 | 26 | Best Time to Buy and Sell Stock (121)                  | Easy   | Greedy                        | [Code](day14/best_time_to_buy_sell_stock.py)            |
 | 27 | Best Time to Buy and Sell Stock II (122)               | Medium | Greedy                        | [Code](day14/best_time_to_buy_sell_stock_2.py)          |
 | 28 | Majority Element (169)                                 | Easy   | HashMap, Voting Algorithm     | [Code](day15/majority_element.py)                       |
