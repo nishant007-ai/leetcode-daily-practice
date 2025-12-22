@@ -33,5 +33,3 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 30 | Longest Substring Without Repeating Characters (3)     | Medium | HashMap, Sliding Window       | [Code](day17/longest_substring_without_repeating.py)    |
 | 31 | Substring with Concatenation of All Words (30)         | Hard   | HashMap, Sliding Window       | [Code](day18/substring_with_concatenation.py)           |
 | 32 | Minimum Window Substring (76)                          | Hard   | Sliding Window, HashMap       | [Code](day19/minimum_window_substring.py)               |
-| 33 | Rotate Array (189)                                     | Medium | Arrays, Rotation              | [Code](day20/rotate_array.py)                           |
-| 34 | Valid Sudoku (36)                                      | Medium | Hashing, Matrix               | [Code](day22/valid_sudoku.py)      
