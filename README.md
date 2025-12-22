@@ -30,11 +30,6 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 15 | Find Index of First Occurrence in String (28)          | Easy   | Strings                       | [Code](day8/find_index_first_occurrence.py)             |
 | 16 | Text Justification (68)                                | Hard   | Strings, Formatting           | [Code](day8/text_justification.py)                      |
 | 17 | Jump Game I (55)                                       | Medium | Greedy, DP                    | [Code](day9/jump_game_1.py)                             |
-| 18 | Jump Game II (45)                                      | Medium | Greedy                        | [Code](day9/jump_game_2.py)                   |
-| 26 | Best Time to Buy and Sell Stock (121)                  | Easy   | Greedy                        | [Code](day14/best_time_to_buy_sell_stock.py)            |
-| 27 | Best Time to Buy and Sell Stock II (122)               | Medium | Greedy                        | [Code](day14/best_time_to_buy_sell_stock_2.py)          |
-| 28 | Majority Element (169)                                 | Easy   | HashMap, Voting Algorithm     | [Code](day15/majority_element.py)                       |
-| 29 | Minimum Size Subarray Sum (209)                        | Medium | Two Pointers                  | [Code](day16/minimum_size_subarray_sum.py)              |
 | 30 | Longest Substring Without Repeating Characters (3)     | Medium | HashMap, Sliding Window       | [Code](day17/longest_substring_without_repeating.py)    |
 | 31 | Substring with Concatenation of All Words (30)         | Hard   | HashMap, Sliding Window       | [Code](day18/substring_with_concatenation.py)           |
 | 32 | Minimum Window Substring (76)                          | Hard   | Sliding Window, HashMap       | [Code](day19/minimum_window_substring.py)               |
