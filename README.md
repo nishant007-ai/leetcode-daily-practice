@@ -30,14 +30,7 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 15 | Find Index of First Occurrence in String (28)          | Easy   | Strings                       | [Code](day8/find_index_first_occurrence.py)             |
 | 16 | Text Justification (68)                                | Hard   | Strings, Formatting           | [Code](day8/text_justification.py)                      |
 | 17 | Jump Game I (55)                                       | Medium | Greedy, DP                    | [Code](day9/jump_game_1.py)                             |
-| 18 | Jump Game II (45)                                      | Medium | Greedy                        | [Code](day9/jump_game_2.py)                             |
-| 19 | H-Index (274)                                          | Medium | Sorting                       | [Code](day10/h_index.py)                                |
-| 20 | Insert Delete GetRandom O(1) (380)                     | Medium | HashMap, Design               | [Code](day10/insert_delete_getrandom_o1.py)             |
-| 21 | Valid Palindrome (125)                                 | Easy   | Two Pointers, String          | [Code](day11/valid_palindrome.py)                       |
-| 22 | Is Subsequence (392)                                   | Easy   | Two Pointers, String          | [Code](day11/is_subsequence.py)                         |
-| 23 | Two Sum II - Input Array Is Sorted (167)               | Easy   | Two Pointers                  | [Code](day12/two_sum_ii_sorted.py)                      |
-| 24 | Container With Most Water (11)                         | Medium | Two Pointers                  | [Code](day12/container_with_most_water.py)              |
-| 25 | 3Sum (15)                                              | Medium | Two Pointers, Sorting         | [Code](day13/three_sum.py)                              |
+| 18 | Jump Game II (45)                                      | Medium | Greedy                        | [Code](day9/jump_game_2.py)                   |
 | 26 | Best Time to Buy and Sell Stock (121)                  | Easy   | Greedy                        | [Code](day14/best_time_to_buy_sell_stock.py)            |
 | 27 | Best Time to Buy and Sell Stock II (122)               | Medium | Greedy                        | [Code](day14/best_time_to_buy_sell_stock_2.py)          |
 | 28 | Majority Element (169)                                 | Easy   | HashMap, Voting Algorithm     | [Code](day15/majority_element.py)                       |
