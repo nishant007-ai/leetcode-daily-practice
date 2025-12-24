@@ -122,10 +122,3 @@ Each folder is organized as:
 
 ## 🎯 Goals  
 - Solve **1 problem every day**  
-- Add **real-world relatable examples**  
-- Maintain clean & structured code  
-
----
-
-## 💡 How to Use  
-1. Clone the repo:
