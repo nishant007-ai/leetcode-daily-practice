@@ -99,10 +99,3 @@ Stay tuned for:
 - **System design & patterns**
 
 > ⚙️ _Final updated version coming soon — all problems will include detailed explanations and optimized code._
-
----
-
-## 🧠 Folder Structure
-
-## 📦 Folder Structure
-Each folder is organized as:  
