@@ -68,33 +68,3 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 53 | Evaluate Reverse Polish Notation (150)                 | Medium | Stack, Math, Expression Eval  | [Code](day44/evaluate_reverse_polish_notation.py)       |
 | 54 | Basic Calculator (224)                                 | Hard   | Stack, Math, Parentheses      | [Code](day45/basic_calculator.py)                       |
 | 55 | Linked List Cycle (141)                                | Easy   | Linked List, Hashing          | [Code](day46/linked_list_cycle.py)                      |
-| 56 | Longest Consecutive Sequence (128)                     | Hard   | HashSet, Sorting              | [Code](day47/longest_consecutive_sequence.py)           |
-
----
-
-
-## 🚧 Coming Soon
-
-✨ **More LeetCode problems** will be added soon...  
-Stay tuned for:
-- Advanced **Dynamic Programming**
-- **Graph Algorithms**
-- **Backtracking Challenges**
-- **System Design & Patterns**
-- Final **updated version** with explanations & optimized solutions
-
----
-
-## 🧠 Folder Structure
-
-
-
-## 🚧 Coming Soon
-
-✨ **More LeetCode problems** will be added soon...  
-Stay tuned for:
-- Advanced **Dynamic Programming**
-- **Graph algorithms**
-- **Backtracking challenges**
-- **System design & patterns**
-
