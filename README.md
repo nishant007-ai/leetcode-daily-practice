@@ -46,8 +46,4 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 31 | Substring with Concatenation of All Words (30)         | Hard   | HashMap, Sliding Window       | [Code](day18/substring_with_concatenation.py)           |
 | 32 | Minimum Window Substring (76)                          | Hard   | Sliding Window, HashMap       | [Code](day19/minimum_window_substring.py)               |
 | 33 | Rotate Array (189)                                     | Medium | Arrays, Rotation              | [Code](day20/rotate_array.py)                           |
-| 34 | Valid Sudoku (36)                                      | Medium | Hashing, Matrix               | [Code](day22/valid_sudoku.py)                           |
-| 35 | Spiral Matrix (54)                                     | Medium | Matrix, Simulation            | [Code](day25/spiral_matrix.py)                          |
-| 36 | Rotate Matrix (Custom)                                 | Medium | Matrix, In-place              | [Code](day26/rotate_matrix.py)                          |
-| 37 | Set Matrix Zeroes (73)                                 | Medium | Matrix                        | [Code](day27/set_matrix_zeroes.py)                      |
-| 38 | Game of Life (289)                                     | Medium | Matrix, Simulation, In-place  | [Code](day28/game_of_life.py)           
+| 
