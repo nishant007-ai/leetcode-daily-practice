@@ -108,6 +108,17 @@ Stay tuned for:
 Each folder is organized as:  
 
 
+## 📦 Folder Structure
+
+
+---
+
+## 🌟 Day 30 Highlight → *Isomorphic Strings*  
+🔹 **Problem:** Check if two strings are isomorphic.  
+🔹 **Approach:** Use a hashmap to track character mappings.  
+🔹 **Real-Life Example:** Comparing two secret codes to see if they follow the same pattern.  
+
+---
 
 ## 🎯 Goals  
 - Solve **1 problem every day**  
