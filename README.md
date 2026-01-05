@@ -42,28 +42,3 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 27 | Best Time to Buy and Sell Stock II (122)               | Medium | Greedy                        | [Code](day14/best_time_to_buy_sell_stock_2.py)          |
 | 28 | Majority Element (169)                                 | Easy   | HashMap, Voting Algorithm     | [Code](day15/majority_element.py)                       |
 | 29 | Minimum Size Subarray Sum (209)                        | Medium | Two Pointers                  | [Code](day16/minimum_size_subarray_sum.py)              |
-| 30 | Longest Substring Without Repeating Characters (3)     | Medium | HashMap, Sliding Window       | [Code](day17/longest_substring_without_repeating.py)    |
-| 31 | Substring with Concatenation of All Words (30)         | Hard   | HashMap, Sliding Window       | [Code](day18/substring_with_concatenation.py)           |
-| 32 | Minimum Window Substring (76)                          | Hard   | Sliding Window, HashMap       | [Code](day19/minimum_window_substring.py)               |
-| 33 | Rotate Array (189)                                     | Medium | Arrays, Rotation              | [Code](day20/rotate_array.py)                           |
-| 34 | Valid Sudoku (36)                                      | Medium | Hashing, Matrix               | [Code](day22/valid_sudoku.py)                           |
-| 35 | Spiral Matrix (54)                                     | Medium | Matrix, Simulation            | [Code](day25/spiral_matrix.py)                          |
-| 36 | Rotate Matrix (Custom)                                 | Medium | Matrix, In-place              | [Code](day26/rotate_matrix.py)                          |
-| 37 | Set Matrix Zeroes (73)                                 | Medium | Matrix                        | [Code](day27/set_matrix_zeroes.py)                      |
-| 38 | Game of Life (289)                                     | Medium | Matrix, Simulation, In-place  | [Code](day28/game_of_life.py)                           |
-| 39 | Ransom Note (383)                                      | Easy   | Hashing, String               | [Code](day29/ransom_note.py)                            |
-| 40 | Isomorphic Strings (205)                               | Easy   | HashMap, String               | [Code](day30/isomorphic_strings.py)                     |
-| 41 | Word Pattern (290)                                     | Easy   | HashMap, String               | [Code](day31/word_pattern.py)                           |
-| 42 | Valid Anagram (242)                                    | Easy   | HashMap, String, Sorting      | [Code](day32/valid_anagram.py)                          |
-| 43 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/group_anagrams.py)                         |
-| 44 | Happy Number (202)                                     | Easy   | Hashing, Math                 | [Code](day34/happy_number.py)                           |
-| 45 | Summary Ranges (228)                                   | Easy   | Arrays, Two Pointers          | [Code](day36/summary_ranges.py)                         |
-| 46 | Merge Intervals (56)                                   | Medium | Sorting, Arrays, Merging      | [Code](day37/merge_intervals.py)                        |
-| 47 | Insert Interval (57)                                   | Hard   | Sorting, Merging, Arrays      | [Code](day38/insert_intervals.py)                       |
-| 48 | Minimum Number of Arrows to Burst Balloons (452)       | Medium | Sorting, Intervals, Greedy    | [Code](day39/min_arrows_to_burst_balloons.py)           |
-| 49 | Contains Duplicate II (219)                            | Easy   | HashMap, Sliding Window       | [Code](day40/contains_duplicate_ii.py)                  |
-| 50 | Valid Parentheses (20)                                 | Easy   | Stack, Brackets, Strings      | [Code](day41/valid_parentheses.py)                      |
-| 51 | Simplify Path (71)                                     | Medium | Stack, String, Path Simplify  | [Code](day42/simplify_path.py)                          |
-| 52 | Min Stack (155)                                        | Medium | Stack, Design                 | [Code](day43/min_stack.py)                              |
-| 53 | Evaluate Reverse Polish Notation (150)                 | Medium | Stack, Math, Expression Eval  | [Code](day44/evaluate_reverse_polish_notation.py)       |
-| 54 | Basic Calculator (224)                                 | Hard   | Stack, Math, Parentheses      | [Code](day45/basic_calculator.py)                       
