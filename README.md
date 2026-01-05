@@ -102,23 +102,6 @@ Stay tuned for:
 
 ---
 
-## 🧠 Folder Structure
-
-## 📦 Folder Structure
-Each folder is organized as:  
-
-
-
-## 🎯 Goals  
-- Solve **1 problem every day**  
-- Add **real-world relatable examples**  
-- Maintain clean & structured code  
-
----
-
-## 💡 How to Use  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/<your-username>/leetcode-daily-practice.git
+## 🧠 Folder Stcode-daily-practice.git
 
 in this it will becdome coomgin soon all leetcode qution is lvoe then final upadatetion is comomig soon ,......git 
