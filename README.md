@@ -47,16 +47,7 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 32 | Minimum Window Substring (76)                          | Hard   | Sliding Window, HashMap       | [Code](day19/minimum_window_substring.py)               |
 | 33 | Rotate Array (189)                                     | Medium | Arrays, Rotation              | [Code](day20/rotate_array.py)                           |
 | 34 | Valid Sudoku (36)                                      | Medium | Hashing, Matrix               | [Code](day22/valid_sudoku.py)                           |
-| 35 | Spiral Matrix (54)                                     | Medium | Matrix, Simulation            | [Code](day25/spiral_matrix.py)                          |
-| 36 | Rotate Matrix (Custom)                                 | Medium | Matrix, In-place              | [Code](day26/rotate_matrix.py)                          |
-| 37 | Set Matrix Zeroes (73)                                 | Medium | Matrix                        | [Code](day27/set_matrix_zeroes.py)                      |
-| 38 | Game of Life (289)                                     | Medium | Matrix, Simulation, In-place  | [Code](day28/game_of_life.py)                           |
-| 39 | Ransom Note (383)                                      | Easy   | Hashing, String               | [Code](day29/ransom_note.py)                            |
-| 40 | Isomorphic Strings (205)                               | Easy   | HashMap, String               | [Code](day30/isomorphic_strings.py)                     |
-| 41 | Word Pattern (290)                                     | Easy   | HashMap, String               | [Code](day31/word_pattern.py)                           |
-| 42 | Valid Anagram (242)                                    | Easy   | HashMap, String, Sorting      | [Code](day32/valid_anagram.py)                          |
-| 43 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/group_anagrams.py)                         |
-| 44 | Happy Number (202)                                     | Easy   | Hashing, Math                 | [Code](day34/happy_number.py)                           |
+| 35 | Spiral Matrix (54)                                     | Medium | Matrix, Simulation            | [Code](day25/spiral_matrix.py)                                                     | Easy   | Hashing, Math                 | [Code](day34/happy_number.py)                           |
 | 45 | Summary Ranges (228)                                   | Easy   | Arrays, Two Pointers          | [Code](day36/summary_ranges.py)                         |
 | 46 | Merge Intervals (56)                                   | Medium | Sorting, Arrays, Merging      | [Code](day37/merge_intervals.py)                        |
 | 47 | Insert Interval (57)                                   | Hard   | Sorting, Merging, Arrays      | [Code](day38/insert_intervals.py)                       |
