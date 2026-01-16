@@ -62,23 +62,4 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 47 | Insert Interval (57)                                   | Hard   | Sorting, Merging, Arrays      | [Code](day38/insert_intervals.py)                       |
 | 48 | Minimum Number of Arrows to Burst Balloons (452)       | Medium | Sorting, Intervals, Greedy    | [Code](day39/min_arrows_to_burst_balloons.py)           |
 | 49 | Contains Duplicate II (219)                            | Easy   | HashMap, Sliding Window       | [Code](day40/contains_duplicate_ii.py)                  |
-| 50 | Valid Parentheses (20)                                 | Easy   | Stack, Brackets, Strings      | [Code](day41/valid_parentheses.py)                      |
-| 51 | Simplify Path (71)                                     | Medium | Stack, String, Path Simplify  | [Code](day42/simplify_path.py)                          |
-| 52 | Min Stack (155)                                        | Medium | Stack, Design                 | [Code](day43/min_stack.py)                              |
-| 53 | Evaluate Reverse Polish Notation (150)                 | Medium | Stack, Math, Expression Eval  | [Code](day44/evaluate_reverse_polish_notation.py)       |
-| 54 | Basic Calculator (224)                                 | Hard   | Stack, Math, Parentheses      | [Code](day45/basic_calculator.py)                       |
-| 55 | Linked List Cycle (141)                                | Easy   | Linked List, Hashing          | [Code](day46/linked_list_cycle.py)                      |
-| 56 | Longest Consecutive Sequence (128)                     | Hard   | HashSet, Sorting              | [Code](day47/longest_consecutive_sequence.py)           |
-
----
-
-
-## 🚧 Coming Soon
-
-✨ **More LeetCode problems** will be added soon...  
-Stay tuned for:
-- Advanced **Dynamic Programming**
-- **Graph Algorithms**
-- **Backtracking Challenges**
-- **System Design & Patterns**
-- Final **updated version** with explanations & optimized solutions
+| 50 | Valid Parent
