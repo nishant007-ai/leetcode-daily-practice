@@ -93,4 +93,29 @@ Stay tuned for:
 
 ✨ **More LeetCode problems** will be added soon...  
 Stay tuned for:
-- Advanced **
+- Advanced **Dynamic Programming**
+- **Graph algorithms**
+- **Backtracking challenges**
+- **System design & patterns**
+
+> ⚙️ _Final updated version coming soon — all problems will include detailed explanations and optimized code._
+
+---
+
+## 🧠 Folder Structure
+
+## 📦 Folder Structure
+Each folder is organized as:  
+
+
+## 📦 Folder Structure
+
+
+---
+
+## 🌟 Day 30 Highlight → *Isomorphic Strings*  
+🔹 **Problem:** Check if two strings are isomorphic.  
+🔹 **Approach:** Use a hashmap to track character mappings.  
+🔹 **Real-Life Example:** Comparing two secret codes to see if they follow the same pattern.  
+
+---
