@@ -55,10 +55,4 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 40 | Isomorphic Strings (205)                               | Easy   | HashMap, String               | [Code](day30/isomorphic_strings.py)                     |
 | 41 | Word Pattern (290)                                     | Easy   | HashMap, String               | [Code](day31/word_pattern.py)                           |
 | 42 | Valid Anagram (242)                                    | Easy   | HashMap, String, Sorting      | [Code](day32/valid_anagram.py)                          |
-| 43 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/group_anagrams.py)                         |
-| 44 | Happy Number (202)                                     | Easy   | Hashing, Math                 | [Code](day34/happy_number.py)                           |
-
-- Add **real-world relatable examples**  
-- Maintain clean & structured code  
-
----
+| 43 | Group Anagrams (49)                                    | Medium | HashMap, String, Sorting      | [Code](day33/group_anagrams.py)               
