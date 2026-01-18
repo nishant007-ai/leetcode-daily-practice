@@ -126,10 +126,3 @@ Each folder is organized as:
 - Maintain clean & structured code  
 
 ---
-
-## 💡 How to Use  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/<your-username>/leetcode-daily-practice.git
-
-in this it will becdome coomgin soon all leetcode qution is lvoe then final upadatetion is comomig soon ,......git 
