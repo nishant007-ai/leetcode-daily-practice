@@ -10,6 +10,3 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 ---
 
 ## 🗂️ Problem Tracker
-
-| #  | Problem Title                                          | Level  | Topics                        | Code Link                                               |
-|----|--------------------------------------------------------|--------|-------------------------------|---------------------------------------------------------|
