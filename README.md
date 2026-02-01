@@ -25,5 +25,4 @@ Each problem includes its **level**, **topic**, and a direct **code link** for e
 | 10 | Integer to Roman (12)                                  | Medium | Greedy, Arrays                | [Code](day5/integer_to_roman.py)                        |
 | 11 | Length of Last Word (58)                               | Easy   | Strings                       | [Code](day5/length_of_last_word.py)                     |
 | 12 | Longest Common Prefix (14)                             | Easy   | Strings                       | [Code](day5/longest_common_prefix.py)                   |
-| 13 | Reverse Words in a String (151)                        | Medium | Strings                       | [Code](day6/reverse_words.py)                           |
-| 14 | Zigzag Conversion (6)                                  | Medium | Strings, Simulation           | [Code](day6/zigzag_conversion.py)                       |
+| 13 | Reverse Words in a String (151)                        | Medium | Strings                       | [Code](day6/reverse_words.py)            
