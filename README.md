@@ -95,9 +95,3 @@ Stay tuned for:
 Stay tuned for:
 - Advanced **Dynamic Programming**
 - **Graph algorithms**
-- **Backtracking challenges**
-- **System design & patterns**
-
-> ⚙️ _Final updated version coming soon — all problems will include detailed explanations and optimized code._
-
----
