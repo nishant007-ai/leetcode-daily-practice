@@ -100,4 +100,36 @@ Stay tuned for:
 
 > ⚙️ _Final updated version coming soon — all problems will include detailed explanations and optimized code._
 
----z
+---
+
+## 🧠 Folder Structure
+
+## 📦 Folder Structure
+Each folder is organized as:  
+
+
+## 📦 Folder Structure
+
+
+---
+
+## 🌟 Day 30 Highlight → *Isomorphic Strings*  
+🔹 **Problem:** Check if two strings are isomorphic.  
+🔹 **Approach:** Use a hashmap to track character mappings.  
+🔹 **Real-Life Example:** Comparing two secret codes to see if they follow the same pattern.  
+
+---
+
+## 🎯 Goals  
+- Solve **1 problem every day**  
+- Add **real-world relatable examples**  
+- Maintain clean & structured code  
+
+---
+
+## 💡 How to Use  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/<your-username>/leetcode-daily-practice.git
+
+in this it will becdome coomgin soon all leetcode qution is lvoe then final upadatetion is comomig soon ,......git 
